@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Plane", "Plane\Plane.vcxproj", "{D53147FB-94E7-4F6F-8179-D0FECBBE486B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D53147FB-94E7-4F6F-8179-D0FECBBE486B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D53147FB-94E7-4F6F-8179-D0FECBBE486B}.Debug|Win32.Build.0 = Debug|Win32
+		{D53147FB-94E7-4F6F-8179-D0FECBBE486B}.Release|Win32.ActiveCfg = Release|Win32
+		{D53147FB-94E7-4F6F-8179-D0FECBBE486B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
